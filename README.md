@@ -1,7 +1,7 @@
 # JavaScript Sets 
 All you need to know about javascript sets in the form of a cheatsheet.
 
-Checkout the code and open the console to see the results.
+Checkout the code, install the dependencies and open the console to see the results.
 
 Alternatively, check the sandbox here: https://codesandbox.io/s/javascript-sets-yw6mgl 
 
