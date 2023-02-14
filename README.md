@@ -7,9 +7,12 @@ Alternatively, check the sandbox here: https://codesandbox.io/s/javascript-sets-
 
 | Function | Time Complexity |
 |----------|-----------------|
-| `set.add(element)` | O(1) |
-| `set.delete(element)` | O(1) |
-| `set.has(element)` | O(1) |
+| `set.add(value)` | O(1) |
+| `set.delete(value)` | O(1) |
+| `set.has(value)` | O(1) |
 | `set.clear()` | O(1) |
 | `set.values()` | O(n), where `n` is the number of elements in the set |
+| `set.entries()` | O(n), where `n` is the number of elements in the set |
+| `set.forEach()` | O(n), where `n` is the number of elements in the set |
 | `set.size` | O(1) |
+
